@@ -5,7 +5,7 @@ Utility class to send push notifications using firebase FCM.
 **Be careful! This library needs curl module for php to work.**
 
 ```
-composer require hrhabib/fcm-push-notification-v1
+composer require iamhabib/fcm-push-notification-v1
 ```
 
 Update firebase push key in config/fcm_push_notification.php

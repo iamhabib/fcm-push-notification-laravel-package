@@ -1,5 +1,5 @@
 {
-    "name": "hrhabib/fcm-push-notification-v1",
+    "name": "iamhabib/fcm-push-notification-v1",
     "description": "A library for sending firebase push notification",
     "type": "Library",
     "license": "MIT",
